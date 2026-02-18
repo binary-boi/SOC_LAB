@@ -21,7 +21,7 @@ This project demonstrates hands-on cybersecurity skills by building a complete S
 - **Incident Response:** 3 detailed runbooks for common attack scenarios
 
 **Built by:** Akshay Kumar Sankalapuram  
-**LinkedIn:** [your-linkedin]  
+**LinkedIn:** https://www.linkedin.com/in/akshay-kumar-san-ram-30664a17a/  
 **Resume:** Inspired by real SOC work at Netcracker Technologies (300+ incidents/month) and Saint Louis University Cybersecurity Lab experience
 
 ---
