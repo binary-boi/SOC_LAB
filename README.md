@@ -271,8 +271,7 @@ red-team-soc-lab/
 
 **Akshay Kumar Sankalapuram**
 
-- **LinkedIn:** [your-linkedin-url]
-- **GitHub:** [your-github-url]
+- **LinkedIn:** https://www.linkedin.com/in/akshay-kumar-san-ram-30664a17a/ 
 - **Email:** akshaykumar.sankalapuram@slu.edu
 
 **Education:** M.S. Cybersecurity — Saint Louis University (GPA: 3.94/4.0)
@@ -300,4 +299,3 @@ MIT License — See [LICENSE](LICENSE) file
 
 **⭐ If this project helps you, please star the repo!**
 
-**📌 Pin this repo on your GitHub profile to showcase it to recruiters.**
